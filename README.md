@@ -1,6 +1,6 @@
 ### Rian Dias
 - 👨🏿‍💻 Soft Engiiner
-- 💻 Python - JavaScript - CSharp
+- 💻 CSharp -  Python - JavaScript
 
 - 
 - 📗
