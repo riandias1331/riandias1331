@@ -1,9 +1,8 @@
 ### Rian Dias
 - 👨🏿‍💻 Soft Engiiner
 - 💻 CSharp -  Python - JavaScript
-- Sql server
-- Google cloud
-- 
-- 📗
+- 🛢 Sql server
+- ☁️ Google cloud
+
 
 
