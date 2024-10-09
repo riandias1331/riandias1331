@@ -1,7 +1,7 @@
 ### Rian Dias
 - 👨🏿‍💻 Soft Engiiner
 - 💻 CSharp -  Python - JavaScript
-- 🛢 Sql server
+- 🛢 Sql server e MongoDb
 - ☁️ Google cloud
 - 🎮 Unity
 
