@@ -4,6 +4,7 @@
 - 🛢 Sql server e MongoDb
 - ☁️ Google cloud
 - 🎮 Unity
+- 📱
 
 
 
