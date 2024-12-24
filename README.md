@@ -22,6 +22,6 @@
   
  
  
-  - -🐳 Docker
+  - 🐳 Docker
 
 
