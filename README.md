@@ -18,10 +18,11 @@
     
   - 📱
   
-  - ☁️ Cloud
-  
+  - ☁️ Cloud:
+    - Google Cloud   
+  -🤖 Ia
  
- 
+
   - 🐳 Docker
 
 
