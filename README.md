@@ -1,28 +1,32 @@
 ### Rian Dias
 
 - 👨🏿‍💻 Soft Engiiner
-  -🌐 WEB:
+
+   WEB:
     -html, css, js
     -React
     -Nodejs -express
   
-  - 🛢 Data:
+   Data:
     -Excel
     -Power bi
     -Sql server
     -MongoDb
     -Python
 
-  - 🎮 Unity:
-      -Csharp / C#
+   Games (Unity):
+    -Csharp / C#
     
-  - 📱
-  
-  - ☁️ Cloud:
-    - Google Cloud   
-  -🤖 Ia
+   Mobile
+    -
+
+   Cloud:
+    - Google Cloud
+      
+   Ia
+    -
  
 
-  - 🐳 Docker
+   Docker
 
 
