@@ -1,4 +1,4 @@
-### Rian Dias
+### RIAN DIAS
 
 👨🏿‍💻 SOFTWARE ENGIINER
 -
