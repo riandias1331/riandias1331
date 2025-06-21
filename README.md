@@ -3,28 +3,28 @@
 👨🏿‍💻 SOFTWARE ENGIINER
 -
   WEB:
-    - html, css, js
-    - React
-    - Nodejs: express
+    html, css, js,
+    React,
+    Nodejs: express
  - 
    Data:
-    - Excel
-    - Power bi
-    - Sql server
-    - MongoDb
-    - Python
+     Excel,
+     Power bi,
+     Sql server,
+     MongoDb,
+     Python,
 -
    Games (Unity):
-    -Csharp / C#
+    Csharp / C#
 -    
    Mobile
-    -jjj
+    Reacte native
 -
    Cloud:
     - Google Cloud
 -   
    Ia
-    - machine learning
+    Machine learning
  -
    Docker
 
