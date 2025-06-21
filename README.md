@@ -21,9 +21,9 @@
     Reacte native
 -
    Cloud:
-    - Google Cloud
+     Google Cloud
 -   
-   Ia
+   Ia:
     Machine learning
  -
 
