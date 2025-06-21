@@ -26,6 +26,5 @@
    Ia
     Machine learning
  -
-   Docker
 
 
