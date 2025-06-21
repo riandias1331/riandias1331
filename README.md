@@ -3,16 +3,16 @@
 - 👨🏿‍💻 Soft Engiiner
 
    WEB:
-    -html, css, js
-    -React
-    -Nodejs -express
+    - html, css, js
+    - React
+    - Nodejs: express
  - 
    Data:
-    -Excel
-    -Power bi
-    -Sql server
-    -MongoDb
-    -Python
+    - Excel
+    - Power bi
+    - Sql server
+    - MongoDb
+    - Python
 -
    Games (Unity):
     -Csharp / C#
