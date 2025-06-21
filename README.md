@@ -1,6 +1,6 @@
 ### Rian Dias
 
-- 👨🏿‍💻 Soft Engiiner
+👨🏿‍💻 SOFTWARE ENGIINER
 -
   WEB:
     - html, css, js
