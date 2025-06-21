@@ -1,8 +1,8 @@
 ### Rian Dias
 
 - 👨🏿‍💻 Soft Engiiner
-
-   WEB:
+-
+  WEB:
     - html, css, js
     - React
     - Nodejs: express
