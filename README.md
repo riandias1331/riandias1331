@@ -24,9 +24,8 @@
     - Google Cloud
 -   
    Ia
-    -jjjj
- 
-
+    - machine learning
+ -
    Docker
 
 
